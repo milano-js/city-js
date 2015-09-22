@@ -19,7 +19,12 @@
 
 > Una cadenza fissa è molto importante anche per abituare chi frequenta lo user group. Scegli un giorno e cerca di rispettarlo sempre. Milano JS, per esempio, è il primo martedì del mese (a parte pre/post festivi o casi particolari).
 
-# Organizzazione:
+## Speaker:
+> All'inizio non sarà facile trovare speaker, per cui organizzati con le persone fidate (e compententi) che conosci.
+
+> Usa delle [linee guida](https://github.com/milano-js/talk-guidelines) per gli speaker che non conosci.
+
+## Organizzazione:
 > C'è chi ama [Meetup](http://www.meetup.com/) e chi no. Noi Usiamo [Eventbrite](https://www.eventbrite.com/) perché permette di gestire bene un sacco di aspetti come biglietti, lista d'attesa, checkin etc.
 
 ## Canali di promozione:
@@ -28,7 +33,7 @@
 - Newsletter
 - Sito
  
-> Twitter in teoria dovrebbe essere il canale migliore ma, purtroppo, non sono la maggioranza gli sviluppatori che lo usano quotidianamente.
+> Twitter sarebbe il canale migliore ma, purtroppo, non tutti gli sviluppatori italiani lo usano quotidianamente.
 
 > Facebook può raggiungere molte altre persone. Puoi usare una ricetta di [IFTTT](https://ifttt.com/recipes) per postare in automatico sulla pagina di FB i tuoi Tweet. Minima spesa, massima resa!
 
