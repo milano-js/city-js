@@ -60,3 +60,7 @@ Un logo è importantissimo per farsi riconoscere. Un grande classico è usare il
 ![Milano JS](http://i.imgur.com/S62vtIc.png)
 > Il logo di Milano JS raffigurante il Duomo.
 
+## Italia.js.org
+La [mappa](http://italia.js.org) degli user group Javascript in Italia.
+Contattaci per inserire il tuo.
+
