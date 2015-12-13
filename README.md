@@ -1,5 +1,5 @@
 # city-js
-:information_source: Alcuni consigli per chi vuole avviare uno user group JS nella propria città e non sa da dove partire.
+**Alcuni consigli per chi vuole avviare uno user group JS nella propria città e non sa da dove partire.**
 > Un breve e generale vademecum basato sulla nostra esperienza con [Milano JS](http://milanojs.com). Non è detto che vada bene anche per il tuo gruppo. Però è molto probabile. ;)
 
 :warning: Se hai domande apri una [issue](https://github.com/milano-js/city-js/issues/new), risponderemo appena possibile. Se la domanda sarà ritenuta di interesse comune, verrà inserita qui sotto.
