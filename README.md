@@ -38,6 +38,7 @@ Twitter sarebbe il canale migliore ma, purtroppo, non tutti gli sviluppatori ita
 Facebook può raggiungere molte altre persone. Puoi usare una ricetta di [IFTTT](https://ifttt.com/recipes) per postare in automatico sulla pagina di FB i tuoi Tweet. Minima spesa, massima resa!
 
 Un sito internet (va benissimo una pagina statica usando le [GH pages](https://pages.github.com/)) deve essere il punto di riferimento e deve essere sempre aggiornato con le informazioni sul prossimo incontro.
+Puoi utilizzare gratuitamente il sottodominio offerto da http://dns.js.org e reindirizzarlo alle tue Github Pages.
 
 Anche se la newsletter può sembrarti un po' vintage è un ottimo strumento, l'importante è non abusarne.
 
