@@ -4,6 +4,8 @@
 
 :warning: Se hai domande apri una [issue](https://github.com/milano-js/city-js/issues/new), risponderemo appena possibile. Se la domanda sarà ritenuta di interesse comune, verrà inserita qui sotto.
 
+:uk: Not speaking Italian? Check the [English version](README_English.md)!
+
 ## Struttura dell'incontro:
 - Introduzione di 5 minuti con aggiornamenti riguardanti la community
 - Un talk a serata la cui durata può variare da 40 minuti ad un'ora
@@ -32,7 +34,7 @@ C'è chi ama [Meetup](http://www.meetup.com/) e chi no. Noi Usiamo [Eventbrite](
 - Facebook
 - Newsletter
 - Sito
- 
+
 Twitter sarebbe il canale migliore ma, purtroppo, non tutti gli sviluppatori italiani lo usano quotidianamente.
 
 Facebook può raggiungere molte altre persone. Puoi usare una ricetta di [IFTTT](https://ifttt.com/recipes) per postare in automatico sulla pagina di FB i tuoi Tweet. Minima spesa, massima resa!
@@ -51,12 +53,20 @@ Uno spazio di coworking è l'ideale, ma anche farsi ospitare da qualche azienda 
 - Sponsor fissi
 - Sponsor di una serata
 
-Trovare sponsor fissi per regalare gadget, licenze software etc. non è così difficile una volta che avrete creato un gruppo consolidato abbastanza numeroso. [Jetbrains](https://www.jetbrains.com/devnet/) per esempio ha un programma dedicato alle community e offre licenze dei suoi prodotti.
+Trovare sponsor fissi per regalare gadget, licenze software etc. non è così
+difficile una volta che avrete creato un gruppo consolidato abbastanza numeroso.
+[Jetbrains](https://www.jetbrains.com/devnet/) per esempio ha un programma
+dedicato alle community e offre licenze dei suoi prodotti.
 
-Farsi sponsorizzare una serata o un evento particolare potrebbe invece risultare più difficile. Prima di chiedere una sponsorizzazione a qualche azienda, fai in modo di avere una merce di scambio. Se il tuo gruppo è molto frequentato, sicuramente le aziende saranno più interessate a sponsorizzare un evento.
+Farsi sponsorizzare una serata o un evento particolare potrebbe invece risultare
+più difficile. Prima di chiedere una sponsorizzazione a qualche azienda, fai in
+modo di avere una merce di scambio. Se il tuo gruppo è molto frequentato,
+sicuramente le aziende saranno più interessate a sponsorizzare un evento.
 
 ## Logo:
-Un logo è importantissimo per farsi riconoscere. Un grande classico è usare il [logo "ufficiale" Javascript](https://github.com/voodootikigod/logo.js/) aggiungendo un particolare che ricordi la tua città.
+Un logo è importantissimo per farsi riconoscere. Un grande classico è usare il
+[logo "ufficiale" Javascript](https://github.com/voodootikigod/logo.js/)
+aggiungendo un particolare che ricordi la tua città.
 
 ![Milano JS](http://i.imgur.com/S62vtIc.png)
 > Il logo di Milano JS raffigurante il Duomo.
